@@ -1,7 +1,7 @@
 +++
 date = '2026-03-31T19:43:54+02:00'
 draft = false
-title = "Japan's Crisis, or of the Law of Value's?"
+title = "Japan's Crisis, or the Law of Value's?"
 summary = ''
 tags = ['translation', 'quinterna', 'teleriunione', 'february 2026']
 original_report = "https://www.quinternalab.org/teleriunioni/2026/febbraio-2026/971-crisi-del-giappone-o-della-legge-del-valore"

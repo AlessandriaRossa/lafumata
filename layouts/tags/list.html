@@ -64,7 +64,7 @@
 
         {{ range .RegularPages }}
         <article class="tag-item">
-            <a class="tag-item-title" href="{{ .RelPermalink }}">
+            <a class="tag-item-title" href="{{ "tags/" | relLangURL }}">
                 {{ .Title }}
             </a>
 

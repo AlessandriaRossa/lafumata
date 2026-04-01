@@ -82,13 +82,13 @@
         <time>{{ .Format "January 2, 2006" }}</time>
         {{ end }}
         
-        {{ with .Params.tags }}
-          <div class="article-tags">
-            {{ range . }}
-              <a href="/tags/{{ . | urlize }}/" class="article-tag">{{ . }}</a>
-            {{ end }}
-          </div>
-        {{ end }}
+      {{ with .Params.tags }}
+        <div class="article-tags">
+          {{ range . }}
+            <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}/" class="article-tag">{{ . }}</a>
+          {{ end }}
+        </div>
+      {{ end }}
       </div>
     </header>
     
