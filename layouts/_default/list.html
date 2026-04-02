@@ -113,7 +113,12 @@
       {{ with .Params.tags }}
       <div class="list-tags">
         {{ range . }}
-        <a href="{{ (printf "/tags/%s/" (. | urlize)) | relLangURL }}">{{ . }}</a>
+          {{ $tagPage := $.Site.GetPage (printf "/tags/%s" (. | urlize)) }}
+          {{ if $tagPage }}
+            <a href="{{ $tagPage.RelPermalink }}">{{ . }}</a>
+          {{ else }}
+            <span>{{ . }}</span>
+          {{ end }}
         {{ end }}
       </div>
       {{ end }}
