@@ -1,3 +1,4 @@
+baseURL = 'https://alessandriarossa.github.io/AlessandriaRossa_website/'
 languageCode = 'en-us'
 title = 'Alessandria Rossa'
 [languages]
