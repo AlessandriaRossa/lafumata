@@ -23,6 +23,7 @@ title = 'Dalla Radice'
   category = "categories"
 [params]
   email = 'alessandriarossa@tutamail.com'
+  favicon = "/favicon.ico"
 [outputs]
   home = ["HTML"]
   page = ["HTML"]

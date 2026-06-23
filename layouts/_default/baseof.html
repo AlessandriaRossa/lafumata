@@ -4,6 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <title> {{ .Site.Title }} </title>
+    <link rel="icon" type="image/png" href="{{ "favicon.png" | relURL }}">
     <style>
   @font-face {
     font-family: 'WebGaramond';
@@ -17,11 +18,11 @@
     font-size: 1.2rem;
 
   }
+  
 </style>
 </head>
 
 <body>
-    <link rel="icon" type="image/png" href="media/images/favicon.png">
     {{ partial "header" . }}
 
     {{ block "main" . }}
