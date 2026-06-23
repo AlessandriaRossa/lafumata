@@ -2,7 +2,7 @@
 date = '2026-04-30T17:18:46+02:00'
 draft = false
 title = 'War as a Break of Symmetry'
-summary = ''
+summary = "During Tuesday’s online meeting we have taken up a few passages from the *abstract* of the monographic issue '[Teoria e prassi della nuova politiguerra americana](https://www.quinterna.org/pubblicazioni/rivista/11/11_rivista.htm) (*n*+1, n. 11)', placing them in the context of  the ongoing conflict in the Middle East."
 tags = ['translation', 'quinterna', 'teleriunione', 'march 2026']
 original_report = "https://www.quinternalab.org/teleriunioni/2026/marzo-2026/976-la-guerra-come-rottura-di-simmetria"
 original_title = "La guerra come rottura di simmetria"

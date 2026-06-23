@@ -2,13 +2,13 @@
 date = '2026-05-20T22:03:39+02:00'
 draft = false
 title = "The Supply Chain Crisis in the World War"
-summary = ''
+summary = "Last Tuesday evening’s online meeting started with an update on the latest news related to the war in Iran."
 tags = ['translation', 'quinterna', 'teleriunione', 'april 2026']
 original_report = "https://www.quinternalab.org/teleriunioni/2026/aprile-2026/979-la-crisi-delle-catene-logistiche-nella-guerra-mondiale"
 original_title = "La crisi delle catene logistiche nella guerra mondiale"
 original_date = "April 14, 2026"
 +++
-Last Tuesday evening’s online meeting started with an update on the latest news relatinged to the war in Iran.
+Last Tuesday evening’s online meeting started with an update on the latest news related to the war in Iran.
 
 After the failure of negotiations between the United States and Iran that occurred in Islamabad, Pakistan, the Trump administration has announced a [blockade](https://www.cnbc.com/2026/04/12/trump-iran-war-strait-of-hormuz.html) of the Strait of Hormuz. The closure will have immediate [repercussions](https://www.adnkronos.com/internazionale/esteri/iran-blocco-hormuz-come-funziona-gli-scenari_7jaq0NnV6808Z0xohNfj6f) both on the global oil traffic and on the supply of goods and raw material to and from Tehran.
 

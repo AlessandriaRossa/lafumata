@@ -2,7 +2,7 @@
 date = '2026-04-30T17:17:05+02:00'
 draft = false
 title = 'No "Exit Strategy" by Remaining Inside Capitalism'
-summary = ''
+summary = "Tuesday evening's online meeting started with a commentary on the latest developments of the war in Iran."
 tags = ['translation', 'quinterna', 'teleriunione', 'march 2026']
 original_report = "https://www.quinternalab.org/teleriunioni/2026/marzo-2026/975-nessuna-exit-strategy-rimanendo-all-interno-del-capitalismo"
 original_title = "Nessuna exit strategy rimanendo all'interno del capitalismo"

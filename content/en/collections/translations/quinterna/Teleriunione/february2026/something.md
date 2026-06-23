@@ -2,7 +2,7 @@
 date = '2026-03-31T19:29:29+02:00'
 draft = false
 title = '"Something Big Is Happening"'
-summary = ''
+summary = "The starting point of Tuesday’s online meeting was an article about the advancements of artificial intelligence, '[Something Big Is Happening](https://shumer.dev/something-big-is-happening)', written by Matt Shumer, a computer scientist, founder and CEO of the startup OthersideAI."
 tags = ['translation', 'quinterna', 'teleriunione', 'february 2026']
 original_report = "https://www.quinternalab.org/teleriunioni/2026/febbraio-2026/972-qualcosa-di-grosso-sta-succedendo"
 original_title = "Qualcosa di grosso sta succedendo"

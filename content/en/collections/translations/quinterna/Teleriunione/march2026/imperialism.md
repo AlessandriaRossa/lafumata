@@ -2,7 +2,7 @@
 date = '2026-04-30T17:21:15+02:00'
 draft = false
 title = 'Imperialism Gasping for Air'
-summary = ''
+summary = "The Tuesday evening online meeting began with some remarks regarding the recent demonstrations in the United States."
 tags = ['translation', 'quinterna', 'teleriunione', 'march 2026']
 original_report = "https://www.quinternalab.org/teleriunioni/2026/marzo-2026/978-imperialismo-con-l-acqua-alla-gola"
 original_title = "Imperialismo con l'acqua alla gola"
