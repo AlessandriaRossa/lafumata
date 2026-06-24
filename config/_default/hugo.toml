@@ -1,6 +1,6 @@
 baseURL = 'https://alessandriarossa.github.io/AlessandriaRossa_website/'
 languageCode = 'en-us'
-title = 'Dalla Radice'
+title = 'La Fumata'
 [languages]
   [languages.it]
     languageCode = 'it-IT'
