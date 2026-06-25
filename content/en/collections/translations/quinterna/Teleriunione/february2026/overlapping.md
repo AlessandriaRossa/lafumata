@@ -2,7 +2,6 @@
 date = '2026-03-31T19:53:43+02:00'
 draft = false
 title = 'Overlapping States'
-summary = "Tuesday’s online meeting began with a discussion on Turin's January 31st [demonstrations](https://www.youtube.com/watch?v=Ft36gOvgWoM) against the eviction of Askatasuna community centre."
 tags = ['translation', 'quinterna', 'teleriunione', 'february 2026']
 original_report = "https://www.quinternalab.org/teleriunioni/2026/febbraio-2026/970-sovrapposizioni-di-stati"
 original_title = "Sovrapposizioni di stati"

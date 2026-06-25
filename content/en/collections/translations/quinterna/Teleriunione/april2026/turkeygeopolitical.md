@@ -2,7 +2,6 @@
 date = '2026-05-20T22:05:24+02:00'
 draft = false
 title = 'Türkiye as a Geopolitical Fulcrum'
-summary = "The online meeting started by revisiting the article '[L'Europa virtuale e i nuovi attrattori d'Eurasia: la Turchia come fulcro dinamico](https://www.quinterna.org/pubblicazioni/rivista/23/turchia1.htm)', published in the 23rd issue of the periodical."
 tags = ['translation', 'quinterna', 'teleriunione', 'april 2026']
 original_report = "https://www.quinternalab.org/teleriunioni/2026/aprile-2026/980-la-turchia-come-fulcro-geopolitico"
 original_title = "La Turchia come fulcro geopolitico"

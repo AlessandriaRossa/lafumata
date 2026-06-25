@@ -2,7 +2,6 @@
 date = '2026-05-20T22:03:39+02:00'
 draft = false
 title = "The Supply Chain Crisis in the World War"
-summary = "Last Tuesday evening’s online meeting started with an update on the latest news related to the war in Iran."
 tags = ['translation', 'quinterna', 'teleriunione', 'april 2026']
 original_report = "https://www.quinternalab.org/teleriunioni/2026/aprile-2026/979-la-crisi-delle-catene-logistiche-nella-guerra-mondiale"
 original_title = "La crisi delle catene logistiche nella guerra mondiale"

@@ -69,27 +69,6 @@
  
 }
 
-/* Tags */
-.teleriunione-tags {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 6px;
-}
-
-.teleriunione-tags a {
-  font-size: 0.85rem;
-  background: #e0e0e0;
- 
-  text-decoration: none;
-  padding: 3px 8px;
-  border-radius: 12px;
-  transition: background 0.2s ease;
-}
-
-.teleriunione-tags a:hover {
-  background: #ccc;
-}
-
 </style>
 
 <main class="teleriunione-container">
@@ -113,19 +92,6 @@
             {{ .Summary }}
           {{ end }}
         </p>
-
-        {{ with .Params.tags }}
-        <div class="teleriunione-tags">
-          {{ range . }}
-            {{ $tagPage := $.Site.GetPage (printf "/tags/%s" (. | urlize)) }}
-            {{ if $tagPage }}
-              <a href="{{ $tagPage.RelPermalink }}">{{ . }}</a>
-            {{ else }}
-              <span>{{ . }}</span>
-            {{ end }}
-          {{ end }}
-        </div>
-        {{ end }}
 
       </article>
     {{ end }}

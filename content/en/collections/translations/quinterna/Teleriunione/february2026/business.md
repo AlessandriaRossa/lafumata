@@ -2,7 +2,6 @@
 date = '2026-04-01T17:24:02+02:00'
 draft = false
 title = "The Bourgeoisie’s Business Committees"
-summary = "The Tuesday evening online meeting opened with some considerations regarding the establishment of the Board of Peace (BoP)."
 tags = ['translation', 'quinterna', 'teleriunione', 'february 2026']
 original_report = "https://www.quinternalab.org/teleriunioni/2026/febbraio-2026/973-comitati-d-affari-della-borghesia"
 original_title = "Comitati d'affari della borghesia"
