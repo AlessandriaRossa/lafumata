@@ -69,27 +69,6 @@
  
 }
 
-/* Tags */
-.teleriunione-tags {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 6px;
-}
-
-.teleriunione-tags a {
-  font-size: 0.85rem;
-  background: #e0e0e0;
- 
-  text-decoration: none;
-  padding: 3px 8px;
-  border-radius: 12px;
-  transition: background 0.2s ease;
-}
-
-.teleriunione-tags a:hover {
-  background: #ccc;
-}
-
 </style>
 
 <main class="teleriunione-container">
@@ -101,7 +80,12 @@
   <section class="teleriunione-items">
 
     {{ .Content }}
-    {{ $months := slice (.Site.GetPage "/collections/translations/quinterna/Teleriunione/february2026") (.Site.GetPage "/collections/translations/quinterna/Teleriunione/march2026") (.Site.GetPage "/collections/translations/quinterna/Teleriunione/april2026") }}
+    {{ $months := slice 
+      (.Site.GetPage "/collections/translations/quinterna/Teleriunione/february-2026")
+      (.Site.GetPage "/collections/translations/quinterna/Teleriunione/march-2026")
+      (.Site.GetPage "/collections/translations/quinterna/Teleriunione/april-2026") 
+      (.Site.GetPage "/collections/translations/quinterna/Teleriunione/may-2026")
+    }}
 
     {{ range $months }}
       <article class="teleriunione-item">
@@ -109,25 +93,6 @@
         <a class="teleriunione-item-title" href="{{ .RelPermalink }}">
           {{ .Title }}
         </a>
-
-        <p class="teleriunione-summary">
-          {{ if .Summary }}
-            {{ .Summary }}
-          {{ end }}
-        </p>
-
-        {{ with .Params.tags }}
-        <div class="teleriunione-tags">
-          {{ range . }}
-            {{ $tagPage := $.Site.GetPage (printf "/tags/%s" (. | urlize)) }}
-            {{ if $tagPage }}
-              <a href="{{ $tagPage.RelPermalink }}">{{ . }}</a>
-            {{ else }}
-              <span>{{ . }}</span>
-            {{ end }}
-          {{ end }}
-        </div>
-        {{ end }}
 
       </article>
     {{ end }}

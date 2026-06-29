@@ -1,6 +1,6 @@
 +++
 draft = false
-title = 'Teleriunione'
+title = 'Teleriunioni'
 summary = 'For Teleriunione'
 layout = 'quincollects'
 +++

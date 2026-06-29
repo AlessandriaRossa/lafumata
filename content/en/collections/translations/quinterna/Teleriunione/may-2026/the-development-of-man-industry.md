@@ -1,0 +1,50 @@
++++
+date = '2026-06-29T03:31:10+02:00'
+draft = false
+title = 'The Development of Man Industry'
+tags = ['translation', 'quinterna', 'teleriunione', 'may 2026']
+original_report = "https://www.quinternalab.org/teleriunioni/2026/maggio-2026/986-sviluppo-dell-uomo-industria"
+original_title = "Sviluppo dell'uomo-industria "
+original_date = "May 26, 2026"
++++
+
+Tuesday evening’s online meeting began with the analysis of some excerpts taken from Pope Leo XIV’s encyclical, *Magnifica Humanitas*.
+
+If at the time of *Rerum Novarum* (1891) the Church [acknowledged](https://www.quinterna.org/pubblicazioni/rivista/49/la-dottrina-sociale-della-chiesa.htm) the rise of the proletariat – a new class bearing its own demands – and the spread of communist ideas inside society, while proposing itself as an alternative, today the Church raises the alarm facing another grand menace that might shake it from the foundations: Artificial Intelligence (AI). According to the Pope, it must be disarmed, since there exists the danger that it might slip away from human control and result kn catastrophic consequences. Some excerpts of the encyclical dedicated to the war-AI binomial have caught our attention:
+
+> *”The Holy See has recently observed that the growing ease with which autonomous weapons systems can be deployed makes war more “feasible” and less subject to human control. This violates the principle that armed force should be used only as a last resort in cases of legitimate self-defense. For this reason, the development and use of AI in warfare must be subject to the most rigorous ethical constraints, to guarantee respect for human dignity and the sanctity of life and to avoid a race to develop such arms.”*
+
+And again:
+
+> *”AI does not remove the intrinsic inhumanity of conflict; indeed it can only bring about conflict more quickly and render it more impersonal, lowering the threshold for resorting to violence, transforming defense into threat prediction and thus reducing victims to data. In this way, it will accustom us to the idea that violence is inevitable and needs only to be optimized.”*
+
+The solutions proposed by the Church move in the historical track of reformism: countries must act in unison to avoid dangerous outcomes. In reality, it’s impossible to turn back the wheel of history: the autonomisation of Capital is reflected in the autonomisation of weapon systems. We’re dealing with an epochal transition, and the [Vatican’s appeals](https://www.quinterna.org/archivio/1952_1970/civilta_deiquiz.htm) to the wisdom of rulers are of little use, except in trying to convince men about the immutability of the current social form. One can read in *Magnifica Humanitas*:
+
+> *”For this reason, the Church’s Social Doctrine insists that access to work for all must be a high priority for public policies and economic processes, serving as a criterion for evaluating the human quality of any development model. Moreover, in those parts of the world where work tends to diminish or change radically due to technological and organizational processes outside of democratic control, we must rethink the nature of work and its connection to citizenship, ensuring that unemployment does not jeopardize social participation.”*
+
+*Chatbots* by now assist and support humans in several daily activities: from writing an email, to summarising a book, up to designing complex infrastructures. We live in a cybernetic society and the tools we have produced are not anymore the simple prosthetic extensions of the physical body, as were the hand-axe, the spear, or the chopper, but they are now part of ourselves (think of the brain-implanted *chips* or the *pacemaker* inside the chest). In the case of AI, the hand-labour-brain relation has reached such a level of fusion with the social body that we can talk about, for all intents and purposes, of a unitary man-industry whole. The Planet is covered with factories, artefacts and logistical networks without which we wouldn’t be able to produce and reproduce as a species. This corpus, built to defend and grant our conditions of life, in reality displays itself as an alien, almost enemy, body. Thus, it is a matter of taking control of it with a unitary production and distribution plan, overcoming the current anarchic phase of humanity.
+
+Talking about society’s integration from a technological point of view, comes to mind the “Singleton” hypothesis of the Swedish philosopher Nick Bostrom (whom we’ve written about in the article “[Ideologie di un capitalismo che nega sé stesso](https://quinterna.org/pubblicazioni/rivista/57/ideologie-di-un-capitalismo-che-nega-se-stesso.htm)”[^1]). Bostrom argues that intelligent life will end up fusing into a single agglomeration: from the first tribes to their federations, from classless urban communities to modern states, a march towards a single world aggregation could be seen. According to this point of view, the coordination of production plans leads to the formation of a “system of systems”.
+
+Marx already spoke of industry as a system; Bostrom arrives, most likely unaware, to outlining a society-industry. We’re dealing with a [change](https://www.quinterna.org/pubblicazioni/rivista/40/verso_la_singolarita_storica.htm) that the Church itself notices— and fears, since it challenges some of the Church’s fundamental pillars – from the family to the “value” of labour – and opens up the possibility of a communist social form.
+
+The development of AI was very swift and society [struggles](https://www.raiplaysound.it/audio/2026/05/Eta-Beta-del-23052026-41616386-e341-4704-ac70-952626d82926.html) to keep up – above all, because it’s distracted by the struggle against itself, divided as it is into economically antagonistic classes. Revolution, however, knocks at the door and uses all available tools to reveal itself, as in the case of Elon Musk that, while intervening in some of the world’s leading technology fairs—such as the CES in Las Vegas and VivaTech in Paris—caused a stir with his declaration about the future of humanity: according to him, AI’s evolution will render labour superfluous, transforming it into a hobby. The giga-capitalist forecasts that artificial intelligence and robots will be able to provide all of the necessary goods and services, allowing humanity to devote itself to idleness.
+
+In the ‘50s the Communist Left wrote:
+
+> *”Man will retain, you say, the organisational, directorial work, the turning of switch keys. Lately they say, however, that a machine of the machine will replace the man on the knobs, after having recorded with electronic processes the man’s effective behaviour, the trick that distinguishes him, in order to relay it identically. Then it will indeed be nature that gives us everything, starting with the breakfast tray that will arrive without anyone bringing it.”* (Introductory prospectus to “Mai la merce sfamerà l’uomo”[^2], 1953)
+
+There’s a tight relationship between the development of AI and the dissolution of capitalism. In reality, it’s the overall development of industry that "abolishes" property (with no adjective). It’s the material basis of industry, the development of associated labour, that brings the suppression of property, more than any revolutionary decree. Both in the *Manifesto* and in *Capital*, the biggest expropriation in history is described: from the one of farmers, artisans and petty owners, to the formation of the proletarian army, forced to sell its own labour-power to survive. In the text “Proprietà e Capitale”[^3] (1948), the Left describes the trajectory of a capitalism that becomes autonomous from the capitalists themselves, placing itself as an anonymous and impersonal power and laying the groundwork for substituting the “symbolic” monetary economy with the economy of “physical” quantities.
+
+In the “fragment on machines” of the *Grundrisse* Marx writes that, after a certain point, it isn’t the appropriation of the labour of others that drives production, but it’s science, the knowledge of the species – the *general intellect* – that becomes directly productive. It is no longer the immediate labour of the single worker that’s fundamental for the formation of social wealth, but rather the combination of brains and machines (today algorithms, digital assistants, *chatbots*, etc.). What we’re dealing with is a whole in which silicon and carbon, in constant communication, evolve together.
+
+Such evolution, if the rupture of the capitalistic shell gets delayed, can bring about ill-fated results for the species. A paradigm change is thus necessary, a revolution in the name of humanity (*Immediate Revolutionary Programme*, Forlì Meeting of the ICP, 1952).
+
+In the article “[Genesi dell’uomo-industria](https://www.quinterna.org/pubblicazioni/rivista/19/genesi_uomo_industria.htm)”[^4] we had seen how industry represents true anthropological nature (Marx, *1844 Manuscripts*). Therefore, any neoluddite hypothesis – which, today, is assuming an antimilitarist contour – becomes meaningless. War, as industry, is an invariant of the history of our species: it goes from the first spears of primitive man to firearms, arriving to AI, that autonomously decides who and what to hit. Once the circle of class societies has been closed, war will no longer be between groups of men, but against natural threats – for example, an asteroid on a collision course with Earth.
+
+Once the current level of organisation of matter – which includes man with his capability of further altering matter by adding information to it—that is, by designing and imagining a result in advance – is reached, the next evolutionary jump can only be the “[reversal of praxis](https://www.quinterna.org/pubblicazioni/rivista/19/rovesciamento_prassi.htm)” lead by the revolutionary party, that is, the planning of the species’ future.
+
+[^1]: Ideologies of a Capitalism that Negates Itself
+[^2]: Never Will Commodities Feed Mankind
+[^3]: Property and Capital
+[^4]: Genesis of Man-Industry

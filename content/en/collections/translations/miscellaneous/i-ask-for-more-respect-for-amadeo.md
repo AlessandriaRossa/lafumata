@@ -1,0 +1,28 @@
++++
+date = '2026-06-29T03:52:13+02:00'
+draft = false
+title = 'I Ask for More Respect for Amadeo'
+tags = ['translation', 'miscellaneous', 'amadeo bordiga']
+original_report = "https://www.avantibarbari.com/news.php?sez_id=3&news_id=50"
+original_title = "Bruno Miserendino, Chiedo più rispetto per Amadeo (L'Unità , 24 luglio 1990)"
++++
+
+**A conversation with Bordiga’s wife, Antonietta de Meo: the friendship with Gramsci, the confinement and the complicated relationship with Palmiro Togliatti**
+
+Amadeo Bordiga: a tough and uncompromising Leninist, a protagonist of the split of Livorno, the anti-liberal par excellence. But also a communist that, politically isolated and expelled from the party, kept a reciprocal friendship with Gramsci, spending the last 40 years of his life in dignified silence, encircled by oblivion. Sometimes this oblivion, especially during the last war, was broken to say really unpleasant things about him. There were heavy accusations from Togliatti – albeit amended later – to which he only offered silence. The rumours, the critiques, the accusations of those years are still remembered without bitterness by Bordiga’s widow, Mrs. Antonietta De Meo – elderly, but lucid keeper of her husband’s image.
+
+The woman lives in Formia in a house by the sea, right next to the one she lived in with Amadeo, surrounded only by memories and the affection of a few family friends. «Yes, many things have been said about him—she immediately states—but he, Amadeo, let things take their course, he didn’t give them importance. He was embittered, but above them. And in any case so much time has passed…».
+
+About Bordiga, an engineering graduate, it was said that he lived comfortably, even in times of tough sacrifices, especially for communists. And a few journalistic biographies have even claimed that he worked as a contractor after the war. Among all, perhaps this is the rumour that most disheartened Bordiga's widow. «None of it is true—she remembers—Amadeo was a capable engineer, expelled from the order for political reasons. He got by, making projects that others signed. Even priests asked for him because they knew he was capable and honest. So he made do, taking gigs, far from being rich. During the war we starved, we ate carobs; when the Germans came we lived inside a kind of cave. And yet, there are even those who said he was a fascist spy. Amadeo died in poverty, this is the truth.».
+
+But what did Bordiga use to say about his former party comrades? «Nothing. Only that he and Gramsci respected each other and corresponded. They were together in Ustica, here in Formia they were separated but used to meet up. Gramsci used to take morning walks right nearby. They both were kept under surveillance, they had the gendarmes hot on their heels. So a quick hello and done, ”Hello Antonio”, ”Hello Amadeo”. He was very saddened by the death of Gramsci, there was friendship between them. They were politically divided, but they understood each other and there was no animosity.» What about Togliatti? Mrs. De Meo sighed: «Togliatti was what he was. Bordiga was understanding.».
+
+And did Bordiga speak to the family about Stalin and the USSR of the terrible ‘30s? «A little, I don’t remember much» – Mrs. De Meo said. Then she sighs again «They accused him of being a Trockist, and after his expulsion, the PCI deliberately ignored him. And Stalin… Stalin wanted Bordiga to remain in Russia, but he replied: "No, thank you, I'm more useful in Italy”». In other words: it was better this way, otherwise who knows what would’ve become of him down there. They were tough times. And the widow looks like she is saying: ”Today’s politics, faith and ideologies are something different”. «It’s easy to say these days, “I go to Moscow, speak, and come back”. Back then, getting to Russia meant grueling journeys, the route went through Finland, there weren’t airplanes. And they were clandestine journeys. On the way back, borders were crossed thanks to smugglers. One time Amadeo told me about Longo on one of those journeys. In order not to offend the smugglers, Amadeo even made him drink, though he was a teetotaler. “Luigi, drink”, he said, “otherwise they’ll kill us…”». But the Mrs. doesn’t want to talk about politics. She wants Amadeo to be remembered after many years with less rancour and more respect for him. Not everyone, after all, even inside the PCI, behaved in the same way. «Many loved my husband and they showed it. Many people used to come and visit him. I remember that when we were in Naples Terracini came. He and Amadeo talked to each other for a long time, with affection. When he died I received telegrams from everyone, starting with Pertini and Saragat. They said he was an honest person. And it was simply the truth».
+
+But in the postwar period, why this long, persistent silence even from Bordiga? «After ‘45 Amadeo wrote a lot, he never betrayed his ideas. He only didn’t want to sign them, he said that it would be improper». Was it a protest against the PCI? «Oh no, not because he was mad at the PCI, but because he didn’t want to draw attention to himself. Journalists came from the United Kingdom to interview him but he always replied no, or made them wait for a long time. And he wanted to know the questions beforehand. He did the same thing in his only TV interview. The questions arrived and he wrote the answers. They were very long. Not all were broadcasted, but something came to light».
+
+Bordiga, tough and reserved man. Until the end. «He—says Mrs. De Meo—has no monuments or chapels but only a burial niche. After all, he always told me: ”Even if they were to take me to the grave with a cart, that’s fine by me”».
+
+Bruno Miserendino
+
+L'Unità, 24 July 1990 

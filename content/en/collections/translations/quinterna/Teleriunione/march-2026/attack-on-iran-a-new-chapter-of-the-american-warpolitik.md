@@ -2,11 +2,11 @@
 date = '2026-04-14T20:22:43+02:00'
 draft = false
 title = "Attack on Iran: a New Chapter of the American Warpolitik"
-summary = "Tuesday’s online meeting began with analysis of the modalities and consequences of the attack conducted by the USA and Israel against Iran."
 tags = ['translation', 'quinterna', 'teleriunione', 'march 2026']
 original_report = "https://www.quinternalab.org/teleriunioni/2026/marzo-2026/974-attacco-all-iran-un-nuovo-capitolo-della-politiguerra-americana"
 original_title = "Attacco all'Iran: un nuovo capitolo della 'politiguerra americana'"
 original_date = "March 3, 2026"
+featured = true
 +++
 Tuesday’s online meeting began with analysis of the modalities and consequences of the attack conducted by the USA and Israel against Iran.
 

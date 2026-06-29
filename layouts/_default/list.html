@@ -1,7 +1,5 @@
 {{ define "main" }}
-
 <style>
-  /* Container */
   .list-container {
     max-width: 900px;
     margin: 90px auto 40px auto;
@@ -9,7 +7,6 @@
     font-family: system-ui, Arial, sans-serif;
   }
 
-  /* Page header */
   .list-header {
     margin-bottom: 30px;
   }
@@ -17,16 +14,15 @@
   .list-title {
     font-size: 2.3rem;
     margin: 0 0 10px;
-   
   }
+
   .list-items {
     display: flex;
     flex-direction: column;
     align-items: center;
     gap: 28px;
-   
   }
-  /* Each list item */
+
   .list-item {
     display: block;
     width: 100%;
@@ -36,16 +32,14 @@
     background: #fff;
     transition: background 0.15s ease;
   }
-/* Each collections item */
+
   .list-item:hover {
     background: #f0f0f0;
     border-color: #ccc;
   }
 
-  /* Title link */
   .list-item-title {
     font-size: 1.4rem;
-   
     text-decoration: none;
     font-weight: 600;
   }
@@ -54,22 +48,17 @@
     text-decoration: underline;
   }
 
-  /* Meta info */
   .list-meta {
-   
     font-size: 0.9rem;
     margin: 4px 0 10px 0;
   }
 
-  /* Summary */
   .list-summary {
     font-size: 1.05rem;
     line-height: 1.55;
     margin: 0 0 10px 0;
-   
   }
 
-  /* Tags */
   .list-tags {
     display: flex;
     flex-wrap: wrap;
@@ -77,68 +66,70 @@
   }
 
   .list-tags a {
-    font-size: 0.85rem;
-    background: #e0e0e0;
-   
-    text-decoration: none;
+    font-size: 0.8rem;
     padding: 3px 8px;
+    background: #e0e0e0;
     border-radius: 12px;
+    color: #333;
+    text-decoration: none;
     transition: background 0.2s ease;
   }
 
   .list-tags a:hover {
     background: #ccc;
   }
+
+  .featured-section {
+    margin-top: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+    width: 100%;
+  }
 </style>
 
 <main class="list-container">
-
   <header class="list-header">
     <h1 class="list-title">{{ .Title }}</h1>
   </header>
 
   <section class="list-items">
-
     {{ .Content }}
 
-    {{ $featured := slice (.Site.GetPage "collections/translations/quinterna/Teleriunione/march2026/integrated.md") (.Site.GetPage "collections/translations/quinterna/Teleriunione/march2026/attack.md") (.Site.GetPage "collections/translations/quinterna/Teleriunione/april2026/towardsthe.md") }}
+    {{ $featured := where .Site.RegularPages "Params.featured" true }}
+    {{ if $featured }}
+      <div class="featured-section">
+        {{ range $featured }}
+          <article class="list-item">
+            <a class="list-item-title" href="{{ .RelPermalink }}">
+              {{ .Title }}
+            </a>
 
-    {{ range $featured }}
+            {{ with .Date }}
+              <div class="list-meta"><time>{{ .Format "January 2, 2006" }}</time></div>
+            {{ end }}
 
-    <article class="list-item">
+            <p class="list-summary">
+              {{ if .Summary }}{{ .Summary }}{{ end }}
+            </p>
 
-      <a class="list-item-title" href="{{ .RelPermalink }}">
-        {{ .Title }}
-      </a>
-
-      {{ with .Date }}
-      <div class="list-meta"><time>{{ .Format "January 2, 2006" }}</time></div>
-      {{ end }}
-
-      <p class="list-summary">
-        {{ if .Summary }}
-        {{ .Summary }}
-        {{ end }}
-      </p>
-
-      {{ with .Params.tags }}
-      <div class="list-tags">
-        {{ range . }}
-          {{ $tagPage := $.Site.GetPage (printf "/tags/%s" (. | urlize)) }}
-          {{ if $tagPage }}
-            <a href="{{ $tagPage.RelPermalink }}">{{ . }}</a>
-          {{ else }}
-            <span>{{ . }}</span>
-          {{ end }}
+            {{ with .Params.tags }}
+              <div class="list-tags">
+                {{ range . }}
+                  {{ $tagPage := $.Site.GetPage (printf "/tags/%s" (. | urlize)) }}
+                  {{ if $tagPage }}
+                    <a href="{{ $tagPage.RelPermalink }}">{{ . }}</a>
+                  {{ else }}
+                    <span>{{ . }}</span>
+                  {{ end }}
+                {{ end }}
+              </div>
+            {{ end }}
+          </article>
         {{ end }}
       </div>
-      {{ end }}
-
-    </article>
     {{ end }}
-
   </section>
-
 </main>
 
 {{ end }}

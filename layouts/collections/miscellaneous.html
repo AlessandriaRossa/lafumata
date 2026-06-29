@@ -1,0 +1,91 @@
+{{ define "main" }}
+
+<style>
+
+.miscellaneous-container {
+  max-width: 900px;
+  margin: 90px auto 40px auto;
+  padding: 0 20px;
+  font-family: system-ui, Arial, sans-serif;
+}
+
+.miscellaneous-header {
+  margin-bottom: 30px;
+}
+
+.miscellaneous-title {
+  font-size: 2.3rem;
+  margin: 0 0 10px;
+}
+
+.miscellaneous-items {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 28px;
+}
+
+.miscellaneous-item {
+  display: block;
+  width: 100%;
+  padding: 22px 30px;
+  border: 2px solid #9b3c3c;
+  text-decoration: none;
+  background: #fff;
+  transition: background 0.15s ease;
+}
+
+.miscellaneous-item:hover {
+  background: #f0f0f0;
+  border-color: #ccc;
+}
+
+.miscellaneous-item-title {
+  font-size: 1.4rem;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.miscellaneous-item-title:hover {
+  text-decoration: underline;
+}
+
+.miscellaneous-summary {
+  font-size: 1.05rem;
+  line-height: 1.55;
+  margin: 0 0 10px 0;
+}
+
+</style>
+
+<main class="miscellaneous-container">
+
+  <header class="miscellaneous-header">
+    <h1 class="miscellaneous-title">{{ .Title }}</h1>
+  </header>
+
+  <section class="miscellaneous-items">
+
+    {{ .Content }}
+
+    {{ range .Pages }}
+      <article class="miscellaneous-item">
+
+        <a class="miscellaneous-item-title" href="{{ .RelPermalink }}">
+          {{ .Title }}
+        </a>
+
+        <p class="miscellaneous-summary">
+          {{ if .Summary }}
+            {{ .Summary }}
+          {{ end }}
+        </p>
+
+      </article>
+    {{ end }}
+
+  </section>
+
+</main>
+
+{{ end }}
