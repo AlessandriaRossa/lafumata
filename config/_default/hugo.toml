@@ -22,7 +22,7 @@ title = 'La Fumata'
   tag = "tags"
   category = "categories"
 [params]
-  email = 'alessandriarossa@tutamail.com'
+  email = 'lafumata@tutamail.com'
 [outputs]
   home = ["HTML"]
   page = ["HTML"]
