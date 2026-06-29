@@ -7,6 +7,7 @@ original_report = "https://www.quinternalab.org/teleriunioni/2026/marzo-2026/974
 original_title = "Attacco all'Iran: un nuovo capitolo della 'politiguerra americana'"
 original_date = "March 3, 2026"
 featured = true
+featureorder = 2
 +++
 Tuesday’s online meeting began with analysis of the modalities and consequences of the attack conducted by the USA and Israel against Iran.
 

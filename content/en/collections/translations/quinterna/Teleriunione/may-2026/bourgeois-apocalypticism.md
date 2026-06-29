@@ -6,6 +6,8 @@ tags = ['translation', 'quinterna', 'teleriunione', 'may 2026']
 original_report = "https://www.quinternalab.org/teleriunioni/2026/maggio-2026/985-apocalitticismo-borghese"
 original_title = "Apocalitticismo borghese"
 original_date = "May 19, 2026"
+featured = true
+featureorder = 1
 +++
 
 The online meeting started with a report on some news concerning the situation of international finance. In particular, we have dwelt on the performance of American government bonds – which are increasingly less requested by investors – and the economic situation in Japan.
@@ -20,7 +22,7 @@ In the last few months, events such as the American attack on Venezuela, the war
 
 At the foundations of the military events of the last few months lies the enormous question of rent, of the control of the flows of value produced by an international proletariat. Our reference texts to delve into this topic are “[Mai la merce sfamerà l’uomo](https://www.quinterna.org/pubblicazioni/storici/maimerce.htm)”[^1] (1953) and “[La crisi del capitalismo senile](https://www.quinterna.org/pubblicazioni/ennepiuuno/capitalsen.htm)”[^2] (1984).
 
-Just as the USA is compelled to appropriate the reserves of value (in the form of oil, but not only) in Venezuela and the Middle East, in the same way Iran tries to impose a toll on the ships that pass through the Strait of Hormuz. The current *warpolitik*, as we have written in the leaflet “[Imperialismo con l’acqua alla gola](https://www.quinterna.org/pubblicazioni/rivista/10/imperialismo_acquagola.htm)”[^3] (1 May 2026), *”doesn’t manifest itself so much through the conquest of territories, as through the acquisition of flows of value from competitors, that, for the USA – rentier country par excellence – is the entire world.”*
+Just as the USA is compelled to appropriate the reserves of value (in the form of oil, but not only) in Venezuela and the Middle East, in the same way Iran tries to impose a toll on the ships that pass through the Strait of Hormuz. The current *warpolitik*, as we have written in the leaflet “[Imperialismo con l’acqua alla gola](https://www.quinterna.org/pubblicazioni/rivista/10/imperialismo_acquagola.htm)”[^3] (1 May 2026), *"doesn’t manifest itself so much through the conquest of territories, as through the acquisition of flows of value from competitors, that, for the USA – rentier country par excellence – is the entire world."*
 
 The 16 May issue of the *Economist* displays on the cover the title “[The jobs apocalypse](https://www.economist.com/leaders/2026/05/14/prepare-for-an-ai-jobs-apocalypse)”. In the main article, the consequences of what is commonly defined as "technological unemployment” are analysed, and governments are warned about the fact that, if action is not taken in time by building a social safety net (for example via a universal basic income), serious stability problems will emerge for states, including scenarios of widespread disorders and even outbursts of revolution. Artificial intelligence systems (AI) are becoming widespread in all sectors of society, causing a profound transformation in the relations of production and, as a consequence, in social relations.
 
@@ -32,7 +34,7 @@ As we’ve already stated, the bourgeoisie cannot exist without continuously rev
 
 In the thread of time “[Precisazioni su ‘Marxismo e miseria’ e ‘Lotta di classe e offensive padronali’](https://www.quinterna.org/archivio/filitempo/028_1949_precisazionioffensive.htm)”[^4] (1949) the validity of Marxist theory is asserted, describing the historical parabola of capitalism:
 
-> *”In an ascending, expanding phase of prosperity: - the number of wage labourers employed in industry increases; - the wage rate increases as well; - the productivity of labour increases as well. In the descending phase of contraction, of alternating crises: -  the total capital-wages ratio increases, but too slowly, or stops; - the increase of the number of proletarians follows suit; - the number of employed workers decreases; - the relative surplus worker population, or reserve army, is formed and enlarges.”*
+> *"In an ascending, expanding phase of prosperity: - the number of wage labourers employed in industry increases; - the wage rate increases as well; - the productivity of labour increases as well. In the descending phase of contraction, of alternating crises: -  the total capital-wages ratio increases, but too slowly, or stops; - the increase of the number of proletarians follows suit; - the number of employed workers decreases; - the relative surplus worker population, or reserve army, is formed and enlarges."*
 
 The antagonism between classes, the one between the 99% and the system of the 1%, is a product of capitalism’s working mechanisms. Greater accumulation means a greater number of unemployed and underemployed workers, greater precariousness and misery. Not coincidentally, following the *subprime* mortgage crisis, right in the USA was born a movement such as [Occupy Wall Street](https://www.quinterna.org/pubblicazioni/rivista/30/occupy_the_world_together.htm), that didn’t lay claim to something in particular, but to the demolition of capitalism (“The only solution is World Revolution”—the conclusive statement of the OWS homepage).
 

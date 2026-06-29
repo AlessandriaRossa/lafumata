@@ -96,7 +96,7 @@
   <section class="list-items">
     {{ .Content }}
 
-    {{ $featured := where .Site.RegularPages "Params.featured" true }}
+    {{ $featured := sort (where .Site.RegularPages "Params.featured" true) "Params.featureorder" }}
     {{ if $featured }}
       <div class="featured-section">
         {{ range $featured }}
