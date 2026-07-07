@@ -18,6 +18,14 @@ title = 'La Fumata'
     weight = 2
     [languages.en.params]
       subtitle = 'English Section'
+  [languages.fr]
+    languageCode = 'fr-FR'
+    languageDirection = 'ltr'
+    contentDir = 'content/fr'
+    languageName = 'Français'
+    weight = 3
+    [languages.fr.params]
+      subtitle = 'Section française'
 [taxonomies]
   tag = "tags"
   category = "categories"
