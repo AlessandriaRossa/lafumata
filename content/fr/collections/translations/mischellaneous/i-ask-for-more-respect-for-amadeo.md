@@ -1,0 +1,91 @@
++++
+date = '2026-06-29T03:52:13+02:00'
+draft = false
+title = 'Je demande plus de respect pour Amadeo
+tags = ['translation', 'miscellaneous', 'amadeo bordiga']
+original_report = "https://www.avantibarbari.com/news.php?sez_id=3&news_id=50"
+original_title = "Bruno Miserendino, Chiedo più rispetto per Amadeo (L'Unità , 24 luglio 1990)"
++++
+**Conversation avec Antonietta de Meo, épouse d’Amadeo Bordiga : l’amitié avec Antonio
+Gramsci, l’enfermement et la relation complexe avec Palmiro Togliatti**
+
+Amadeo Bordiga : un léniniste strict et instransigeant, figure de proue de la scission de
+Livourne ; l'antilibéral par excellence. Mais aussi un communiste qui, malgré l'isolement
+politique et son exclusion du parti, a conservé une amitié sincère avec Gramsci, bien qu'ayant
+passé les quarante dernières années de sa vie dans un digne silence, plongé dans l’oubli. A
+quelques reprises, cet oubli fut toutefois rompu, notamment durant la dernière guerre, pour
+proférer des propos particulièrement désobligeants à son sujet. Togliatti lança de graves
+accusations envers lui — qu’il nuancera par la suite — à l'égard desquelles Bordiga demeurera
+muet. Les rumeurs, les critiques et les incriminations de ces années-là sont encore évoquées
+sans amertume par la veuve de Bordiga, Antonietta De Meo — gardienne, certes âgée, mais
+lucide de la mémoire de son défunt époux.
+
+Celle-ci vit à Formia, dans une maison en bord de mer, juste à côté de celle qu'elle partageait
+avec Amadeo, entourée seulement de ses souvenirs et de l'affection de quelques amis de la
+famille. « Oui, on a dit beaucoup de choses sur lui — déclare-t-elle immédiatement — mais lui,
+Amadeo, laissait les choses suivre leur cours et ne leur accordait pas d'importance. Il était aigri,
+mais au-dessus de tout ça. Et puis, de toute façon, tant de temps s'est écoulé… »
+
+À propos de Bordiga, ingénieur de formation, on raconte qu'il vivait confortablement, même en
+des temps de durs sacrifices, surtout pour les communistes. Quelques biographies
+journalistiques ont même affirmé qu'il avait travaillé comme entrepreneur en bâtiment après la
+guerre. Parmi toutes ces rumeurs, c'est peut-être celle-ci qui a le plus attristé la veuve de
+Bordiga. « Rien de tout cela n’est vrai — se souvient-elle — Amadeo était un ingénieur capable,
+exclu de l’ordre pour des raisons politiques. Il gagnait sa vie en réalisant des projets validés par
+d'autres. Même des prêtres faisaient appel à lui, car ils savaient que c'était quelqu'un de
+compétent et honnête. Il se débrouillait donc ainsi, en faisant des petits boulots, loin d'être
+riche. Pendant la guerre, nous avons souffert de la faim, nous mangions des caroubes ; quand
+les Allemands ont débarqué, nous vivions dans une sorte de grotte. Et malgré tout cela, certains
+ont osé dire qu’il était un espion fasciste. La vérité, c'est qu'Amadeo est mort dans la
+pauvreté. »
+
+Mais que disait Bordiga de ses anciens camarades de parti ? « Rien. Seulement que lui et
+Gramsci se respectaient mutuellement et s'envoyaient toujours des lettres. À Ustica, ils étaient
+très proches ; tandis qu'ici, à Formia, ils sont restés plutôt éloignés l'un de l'autre, bien qu'ils
+trouvaient quelques occasions de se rencontrer. Gramsci avait l’habitude de faire sa promenade
+matinale tout près d'ici. Tous deux étaient sous haute surveillance des gendarmes ; ces derniers
+ne les lâchaient pas d'une semelle. Alors ils ne pouvaient se contenter que de simples
+salutations : « Ciao Antonio ! », « Ciao Amadeo ! ». Il fut très attristé par la mort de Gramsci ; il y
+avait une véritable amitié entre eux deux. Il est vrai qu'ils étaient politiquement divisés, mais ils
+parvenaient à se comprendre sans aucune animosité.» Et Togliatti ? Mme De Meo soupira :
+« Togliatti était ce qu’il était. Bordiga était compréhensif. »
+
+Bordiga a-t-il parlé à sa famille de Staline et de l'URSS des terribles années 30 ? « Un peu, je ne
+me souviens pas de grand-chose », dit Mme De Meo. Puis elle soupire à nouveau : « Ils l'ont
+accusé d'être un trotskiste, et après son expulsion, le PCI l'a volontairement ignoré. Quant à
+Staline… il voulait que Bordiga reste en Russie, mais ce dernier lui a répondu : "Non, merci, je
+suis plus utile en Italie." » Comme pour dire : c'était mieux ainsi, sinon qui sait ce qui ce serait
+passé là-bas. C'étaient des temps difficiles. Et la veuve semble dire : « La politique, la foi et les
+idéologies d'aujourd'hui sont quelque chose de différent. » « De nos jours, il est facile de dire :
+"Je vais à Moscou pour discuter puis ensuite je rentre." À l’époque, se rendre en Russie se
+faisait au prix de voyages particulièrement épuisants. La route pour s'y rendre passait par la
+Finlande, il n’y avait pas d’avions. Ces voyages s'effectuaient en toute clandestinité. Au retour,
+on franchissait les frontières grâce à des passeurs. Un jour, Amadeo m’a raconté l’histoire de
+Longo lors d’un de ces voyages. Pour ne pas offenser les passeurs, Amadeo l’a même fait boire,
+alors qu’il était abstinent. "Luigi, bois — lui avait-il dit — sinon ils vont nous tuer…" » Mais cette
+dame ne souhaite pas parler politique. Ce qu'elle veut vraiment, c'est qu'on se souvienne
+d'Amadeo, après tant d'années, avec moins d'amertume et plus de respect. Après tout, même
+au sein du PCI, tout le monde ne se comportait pas de la même manière. « Nombreux étaient
+ceux qui aimaient mon mari, cela se remarquait. Beaucoup lui rendaient visite. Je me souviens,
+lors d'un séjour à Naples, quand Terracini est venu nous voir. Lui et Amadeo s'entretinrent
+longuement, avec affection. À son décès, j'ai reçu des télégrammes de tout le monde, à
+commencer par Pertini et Saragat. Ils disaient qu'il avait été un homme intègre. Et c'était la pure
+vérité. »
+
+Mais dans la période d'après-guerre, pourquoi avoir maintenu ce long et persistant silence,
+même de la part de Bordiga ? « Après 1945, Amadeo a produit beaucoup d'écrits ; il n’a jamais
+trahi ses idées. Mais il refusait de les signer, expliquant que ce serait indécent de le faire. »
+Était-ce une forme de protestation contre le PCI ? « Oh non, cela n'avait rien à voir avec sa
+colère envers le PCI. Il ne voulait juste pas attirer l'attention sur lui. Il refusait d'être une
+vedette. Quand des journalistes venaient du Royaume-Uni pour l’interviewer, il refusait
+systématiquement ou les faisait attendre longtemps. Aussi, il voulait connaître à l'avance toutes
+les questions qu'on allait lui poser. C'est comme cela qu'il a procédé pour sa seule interview
+télévisée. Les questions lui sont parvenues au préalable et il a rédigé les réponses; des réponses
+très longues. Même si elles n'ont pas toutes été diffusées, quelque chose a au moins vu le jour. »
+
+Bordiga, homme sévère et réservé. Jusqu’à la fin. « Il n’a ni monument ni chapelle — raconte
+Mme De Meo — seulement une niche funéraire. Après tout, il m'a toujours dit: "Même si on
+devait m’emporter dans la tombe à bord d'une charrette, ça m'irait très bien." »
+Bruno Miserendino
+
+L’Unità, 24 juillet 1990
