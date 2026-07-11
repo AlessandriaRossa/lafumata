@@ -1,14 +1,14 @@
 +++
 draft = false
-title = 'Website List'
-summary = 'List of websites'
+title = 'Liste de sites web'
+summary = 'Liste de sites web'
 +++
 
-List of web links which we find useful to share
+Liste de liens web que nous trouvons utile de partager
 
-- [Quinterna](https://quinterna.org): Work group born in 1981 from the dissolution of PCInt-Il Programma. The main subjects of their works are phase transitions and ideological capitulations of the bourgeoisie.
-- [QuinternaLab](https://www.quinternalab.org): Website that contains all n+1's semi-finshed material, weekly reports and more.
-- [intcp](https://intcp.org): Party born from a section's exit from PCInt-Il Partito in 2024, it is continuing the theoretical restoration of the communist program and creation of the class union.
-- [international-communist-party](https://www.international-communist-party.org/index.htm): Party born from the expulsion of the Florentine section from PCInt-Il Programma in 1974, it is continuing the theoretical restoration of the communist program and creation of the class union.
-- [sinistra.net](https://sinistra.net/): Project which contains Marxist literature in various languages. They identify with the Communist Left.
-- [The Solar Collective](https://solarcollective.comrades.sbs/): Website that gathers english translations of *n+1* magazine and other texts inherent to the Left.
+- [Quinterna](https://quinterna.org): Groupe de travail né en 1981 de la dissolution du PCInt-Il Programma. Les principaux sujets de leurs travaux sont les transitions de phase et les capitulations idéologiques de la bourgeoisie.
+- [QuinternaLab](https://www.quinternalab.org): Site web qui contient tout le matériel semi-fini de n+1, des rapports hebdomadaires et plus encore.
+- [intcp](https://intcp.org): Parti né de la sortie d'une section du PCInt-Il Partito en 2024, il poursuit la restauration théorique du programme communiste et la création du syndicat de classe.
+- [international-communist-party](https://www.international-communist-party.org/index.htm): Parti né de l'expulsion de la section florentine du PCInt-Il Programma en 1974, il poursuit la restauration théorique du programme communiste et la création du syndicat de classe.
+- [sinistra.net](https://sinistra.net/): Projet qui rassemble de la littérature marxiste en plusieurs langues. Ils s'identifient à la Gauche communiste.
+- [The Solar Collective](https://solarcollective.comrades.sbs/): Site web qui rassemble des traductions anglaises de la revue *n+1* et d'autres textes relevant de la Gauche.

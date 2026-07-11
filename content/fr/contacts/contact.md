@@ -1,6 +1,6 @@
 +++
 draft = false
-title = 'Contact Us'
+title = 'Contactez-nous'
 layout = 'contact'
 +++
-Contact us at lafumata@tutamail.com
+Contactez-nous à lafumata@tutamail.com

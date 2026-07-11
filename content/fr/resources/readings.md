@@ -1,25 +1,25 @@
 +++
 draft = false
-title = 'Reading List'
-summary = 'List of theorical text, from beginner to advanced topics'
+title = 'Liste de lecture'
+summary = 'Liste de textes théoriques, du niveau débutant au niveau avancé'
 +++
 
-*Italicised texts are the essentials.*
+*Les textes en italique sont les essentiels.*
 
-# General Overview
+# Aperçu général
 - *[The Principles of Communism - Engels](https://www.marxists.org/archive/marx/works/1847/11/prin-com.htm)*
 - *[Manifesto of the Communist Party](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/)*
 - [The ABC of Communism - Bukharin](https://www.marxists.org/archive/bukharin/works/1920/abc/index.htm)
 - [Anti-Dühring - Engels](https://www.marxists.org/archive/marx/works/1877/anti-duhring/)
 - [The Fundamentals of Revolutionary Communism - ICP](https://www.marxists.org/archive/bordiga/works/1957/fundamentals.htm)
-# Critique of Political Economy
+# Critique de l'économie politique
 - *[Wage Labour and Capital - Marx](https://www.marxists.org/archive/marx/works/1847/wage-labour/)*
 - *[Imperialism, the Highest Stage of Capitalism - Lenin](https://www.marxists.org/archive/lenin/works/1916/imp-hsc/)*
 - *[Critique of the Gotha Progamme - Marx](https://www.marxists.org/archive/marx/works/1875/gotha/)*
 - *[Capital, volume 1 - Marx](https://www.marxists.org/archive/marx/works/1867-c1/)*
 - [Value, Price and Profit - Marx](https://www.marxists.org/archive/marx/works/1865/value-price-profit/index.htm)
 - [Dialogue with Stalin - ICP](https://www.marxists.org/archive/bordiga/works/1952/stalin.htm)
-# Historical Materialism / Scientific Socialism
+# Matérialisme historique / Socialisme scientifique
 - *[Socialism; Utopian and Scientific - Engels](https://www.marxists.org/archive/marx/works/1880/soc-utop/)*
 - *[The German Ideology - Marx, Engels](https://www.marxists.org/archive/marx/works/1845/german-ideology/)*
 - [Origin of the Family - Engels](https://www.marxists.org/archive/marx/works/1884/origin-family/)
@@ -36,11 +36,11 @@ summary = 'List of theorical text, from beginner to advanced topics'
 - [Proletarian Dictatorship and Class Party - ICP](https://www.marxists.org/archive/bordiga/works/1951/class-party.htm)
 - [Party and Class - ICP](https://www.marxists.org/archive/bordiga/works/1921/party-class.htm)
 - [Workers' Councils - Pannekoek](https://www.marxists.org/archive/pannekoe/1947/workers-councils.htm)
-# The State
+# L'État
 - *[The State and Revolution - Lenin](https://www.marxists.org/archive/lenin/works/1917/staterev/)*
-- [Conspectus of Bakunin’s Statism and Anarchy - Marx](https://www.marxists.org/archive/marx/works/1874/04/bakunin-notes.htm)
-# Dialectics
+- [Conspectus of Bakunin's Statism and Anarchy - Marx](https://www.marxists.org/archive/marx/works/1874/04/bakunin-notes.htm)
+# Dialectique
 - [Ludwig Feuerbach and the End of Classical German Philosophy - Engels](https://www.marxists.org/archive/marx/works/1886/ludwig-feuerbach/)
 - [The Holy Family or Critique of Critical Criticism - Marx, Engels](https://www.marxists.org/archive/marx/works/1845/holy-family/)
-- [Critique of Hegel’s Philosophy of Right - Marx](https://www.marxists.org/archive/marx/works/1843/critique-hpr/index.htm)
+- [Critique of Hegel's Philosophy of Right - Marx](https://www.marxists.org/archive/marx/works/1843/critique-hpr/index.htm)
 - [Science of Logic - Hegel](https://www.marxists.org/reference/archive/hegel/works/hl/hlconten.htm)

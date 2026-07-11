@@ -1,5 +1,6 @@
 +++
 draft = false
 title = 'Collections'
-summary = 'This is for storing all written works'
+summary = 'Ceci sert à stocker toutes les œuvres écrites'
+layout = 'collections'
 +++

@@ -1,5 +1,5 @@
 +++
 draft = false
-title = 'Reading List'
-summary = 'List of theoretical texts, with many topics for beginners and up to advanced'
+title = 'Liste de lecture'
+summary = "Liste de textes théoriques, avec de nombreux sujets pour débutants et jusqu'aux plus avancés"
 +++
