@@ -79,13 +79,9 @@
   <section class="collections-items">
 
     {{ .Content }}
-
-    {{ $lafumata      := where .Pages "File.BaseFileName" "lafumata" }}
-    {{ $quinterna     := where .Pages "Title" "Quinterna" }}
-    {{ $miscellaneous := where .Pages "Title" "Miscellaneous" }}
-
-
-{{ range union $lafumata (union $quinterna $miscellaneous) }}
+    {{ $collectionsPage := .Site.GetPage "collections" }}
+    {{ $subsections := $collectionsPage.Sections }}
+    {{ range $subsections }}
       <article class="collections-item">
         
         <a class="collections-item-title" href="{{ .RelPermalink }}">
