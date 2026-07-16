@@ -52,7 +52,8 @@
   <h1 class="quinterna-title">{{ .Title }}</h1>
 
   <div class="quinterna-cards">
-	{{ range .Sections }}
+
+	  {{ range .Sections }}
 	  <a class="quinterna-card" href="{{ .RelPermalink }}">
 		<span class="quinterna-card-title">{{ .Title }}</span>
 	  </a>
