@@ -4,43 +4,43 @@ title = 'Liste de lecture'
 summary = 'Liste de textes théoriques, du niveau débutant au niveau avancé'
 +++
 
-*Les textes en italique sont les essentiels.*
+*Les textes en italiques sont essentiels.*
 
-# Aperçu général
-- *[The Principles of Communism - Engels](https://www.marxists.org/archive/marx/works/1847/11/prin-com.htm)*
-- *[Manifesto of the Communist Party](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/)*
-- [The ABC of Communism - Bukharin](https://www.marxists.org/archive/bukharin/works/1920/abc/index.htm)
-- [Anti-Dühring - Engels](https://www.marxists.org/archive/marx/works/1877/anti-duhring/)
-- [The Fundamentals of Revolutionary Communism - ICP](https://www.marxists.org/archive/bordiga/works/1957/fundamentals.htm)
-# Critique de l'économie politique
-- *[Wage Labour and Capital - Marx](https://www.marxists.org/archive/marx/works/1847/wage-labour/)*
-- *[Imperialism, the Highest Stage of Capitalism - Lenin](https://www.marxists.org/archive/lenin/works/1916/imp-hsc/)*
-- *[Critique of the Gotha Progamme - Marx](https://www.marxists.org/archive/marx/works/1875/gotha/)*
-- *[Capital, volume 1 - Marx](https://www.marxists.org/archive/marx/works/1867-c1/)*
-- [Value, Price and Profit - Marx](https://www.marxists.org/archive/marx/works/1865/value-price-profit/index.htm)
-- [Dialogue with Stalin - ICP](https://www.marxists.org/archive/bordiga/works/1952/stalin.htm)
-# Matérialisme historique / Socialisme scientifique
-- *[Socialism; Utopian and Scientific - Engels](https://www.marxists.org/archive/marx/works/1880/soc-utop/)*
-- *[The German Ideology - Marx, Engels](https://www.marxists.org/archive/marx/works/1845/german-ideology/)*
-- [Origin of the Family - Engels](https://www.marxists.org/archive/marx/works/1884/origin-family/)
-- [The Housing Question - Engels](https://www.marxists.org/archive/marx/works/1872/housing-question/)
-- [18th Brumaire of Louis Napoleon - Marx](https://www.marxists.org/archive/marx/works/1852/18th-brumaire/)
-- [The Civil War in France - Marx](https://www.marxists.org/archive/marx/works/1871/civil-war-france/)
-- [The Condition of the Working Class in England - Engels](https://www.marxists.org/archive/marx/works/1845/condition-working-class/)
-- [A Revolution Summed Up - ICP](https://www.international-communist-party.org/English/Texts/Russia/67RevRev.htm)
-- [Factors of Race and Nation in Marxist Theory - ICP](https://www.international-communist-party.org/English/Texts/53FaRNen.htm)
-# Organisation
-- *[What is to be Done? - Lenin](https://www.marxists.org/archive/lenin/works/1901/witbd/)*
-- *[The Democratic Principle - ICP](https://www.marxists.org/archive/bordiga/works/1922/democratic-principle.htm)*
-- [Letter to a Comrade on our Organisational Tasks - Lenin](https://www.marxists.org/archive/lenin/works/1902/sep/00.htm)
-- [Proletarian Dictatorship and Class Party - ICP](https://www.marxists.org/archive/bordiga/works/1951/class-party.htm)
-- [Party and Class - ICP](https://www.marxists.org/archive/bordiga/works/1921/party-class.htm)
-- [Workers' Councils - Pannekoek](https://www.marxists.org/archive/pannekoe/1947/workers-councils.htm)
+# Vue d'ensemble
+[Principes du communisme](https://www.marxists.org/francais/marx/works/47-pdc.htm) - Friedrich Engels\
+[Manifeste du Parti Communiste](https://www.marxists.org/francais/marx/works/1847/00/kmfe18470000.htm) - Friedrich Engels & Karl Marx\
+[L'ABC du communisme](https://www.marxists.org/francais/boukharine/works/1923/abc_avt.htm) - Nikolaï Boukharine & Evgueni Preobrajenski\
+[Anti-Dühring : Monsieur Eugen Dühring bouleverse la science](https://www.marxists.org/francais/engels/works/1878/06/fe18780611.htm) - Friedrich Engels\
+[Les fondements du communisme révolutionnaire marxiste dans la doctrine et dans l'histoire de                        la lutte prolétarienne internationale](https://intcp.org/fr/texts/22966/les-fondements-du-communisme-revolutionnaire-marxiste-dans-la-doctrine-et-dans-lhistoire-de-la-lutte-proletarienne-internationale/) - Parti Communiste International (PCI)
+# Critique de l'Économie Politique
+[Travail salarié et Capital](https://www.marxists.org/francais/marx/works/1847/12/km18471230.htm) - Karl Marx\
+[L'Impérialisme, stade suprême du capitalisme](https://www.marxists.org/francais/lenin/works/1916/vlimperi/vlimp.htm) - Vladimir I. Lénine\
+[Critique du programme de Gotha](https://www.marxists.org/francais/marx/works/1875/05/18750500.htm) - Karl Marx\
+[Le Capital, Livre I](https://www.marxists.org/francais/marx/works/1867/Capital-I/index.htm) - Karl Marx\
+[Salaire, prix et profit](https://www.marxists.org/francais/marx/works/1865/06/km18650626.htm) - Karl Marx\
+[Dialogue avec Staline](https://www.sinistra.net/lib/bas/progco/qilu/dia/qiluicobif.html) - Parti Communiste International (PCI)
+# Matérialisme Historique / Socialisme Scientifique
+[Socialisme utopique et socialisme scientifique](https://www.marxists.org/francais/marx/80-utopi/index.htm) - Friedrich Engels\
+[L'Idéologie allemande](https://www.marxists.org/francais/marx/works/1845/00/kmfe18450000.htm) - Karl Marx & Friedrich Engels\
+[L'Origine de la famille, de la propriété privée et de l'État](https://www.marxists.org/francais/engels/works/1884/00/fe18840000.htm) - Friedrich Engels\
+[La question du logement](https://www.marxists.org/francais/engels/works/1872/00/logement.htm) - Friedrich Engels\
+[Le 18 Brumaire de Louis Bonaparte](https://www.marxists.org/francais/marx/works/1851/12/brum.htm) - Karl Marx\
+[La Guerre civile en France](https://www.marxists.org/francais/ait/1871/05/km18710530.htm) - Karl Marx\
+[La Situation de la classe ouvrière en Angleterre en 1844](https://www.marxists.org/francais/engels/works/1845/03/fe_18450315.htm) - Friedrich Engels\
+[Bilan d'une révolution](https://www.pcint.org/15_Textes_Theses/07_01_fr/1967-68-bilan-part-0-intro.htm) - Parti Communiste International (PCI)\
+[Facteurs de race et de nation dans la théorie marxiste](https://www.sinistra.net/lib/bas/progra/vako/vakomfefaf.html) - Parti Communiste International (PCI)
+# Sur l'Organisation
+[Que faire ?](https://www.marxists.org/francais/lenin/works/1902/02/19020200.htm) - Vladimir I. Lénine\
+[Le Principe démocratique](https://intcp.org/fr/texts/3540/le-principe-democratique/) - Parti Communiste International (PCI)\
+[Lettre à un camarade sur nos tâches d'organisation](https://www.marxists.org/francais/lenin/works/1902/09/vil19030900.htm) - Vladimir I. Lénine\
+[Dictature prolétarienne et parti de classe](https://www.sinistra.net/lib/bas/progco/qimo/qimoegobof.html) - Parti Communiste International (PCI)\
+[Parti et classe](https://www.sinistra.net/lib/bas/progco/qimu/qimuihobuf.html) - Parti Communiste International (PCI)\
+[Workers' Councils](https://www.marxists.org/archive/pannekoe/1947/workers-councils.htm) - Anton Pannekoek
 # L'État
-- *[The State and Revolution - Lenin](https://www.marxists.org/archive/lenin/works/1917/staterev/)*
-- [Conspectus of Bakunin's Statism and Anarchy - Marx](https://www.marxists.org/archive/marx/works/1874/04/bakunin-notes.htm)
+[L'État et la Révolution](https://www.marxists.org/francais/lenin/works/1917/08/er00t.htm) - Vladimir I. Lénine\
+[Conspectus of Bakunin's Statism and Anarchy](https://www.marxists.org/archive/marx/works/1874/04/bakunin-notes.htm) - Marx
 # Dialectique
-- [Ludwig Feuerbach and the End of Classical German Philosophy - Engels](https://www.marxists.org/archive/marx/works/1886/ludwig-feuerbach/)
-- [The Holy Family or Critique of Critical Criticism - Marx, Engels](https://www.marxists.org/archive/marx/works/1845/holy-family/)
-- [Critique of Hegel's Philosophy of Right - Marx](https://www.marxists.org/archive/marx/works/1843/critique-hpr/index.htm)
-- [Science of Logic - Hegel](https://www.marxists.org/reference/archive/hegel/works/hl/hlconten.htm)
+[Ludwig Feuerbach et la fin de la philosophie classique allemande](https://www.marxists.org/francais/engels/works/1888/02/fe_18880221.htm) - Friedrich Engels\
+[La Sainte Famille](https://www.marxists.org/francais/marx/works/1844/09/kmfe18440900.htm) - Karl Marx & Friedrich Engels\
+[Critique de la philosophie du droit de Hegel](https://classiques.uqam.ca/classiques/Marx_karl/critique_droit_pol_hegelien/critique_droit_pol_hegelien_original.html) - Karl Marx\
+[La Science de la logique](https://archive.org/details/la-science-de-la-logique-hegel/) - Georg W.F Hegel
