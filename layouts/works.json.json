@@ -1,0 +1,12 @@
+{{- $pages := where $pages "Params.searchable" "!=" false -}}
+[
+{{- range $index, $page := $pages -}}
+  {{- if $index }},{{ end }}
+  {
+    "title": {{ $page.Title | jsonify }},
+    "tags": {{ $page.Params.tags | jsonify }},
+    "url": {{ $page.RelPermalink | jsonify }},
+    "summary": {{ $page.Summary | plainify | truncate 150 | jsonify }}
+  }
+{{- end -}}
+]

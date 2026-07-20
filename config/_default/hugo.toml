@@ -26,6 +26,14 @@ title = 'La Fumata'
     weight = 3
     [languages.fr.params]
       subtitle = 'Section française'
+  [languages.ro]
+    languageCode = 'ro-RO'
+    languageDirection = 'ltr'
+    contentDir = 'content/ro'
+    languageName = 'Română'
+    weight = 4
+    [languages.ro.params]
+      subtitle = 'Secțiune română'
 [taxonomies]
   tag = "tags"
   category = "categories"

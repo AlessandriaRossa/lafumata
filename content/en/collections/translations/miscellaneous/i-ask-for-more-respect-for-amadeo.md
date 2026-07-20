@@ -2,7 +2,7 @@
 date = '2026-06-29T03:52:13+02:00'
 draft = false
 title = 'I Ask for More Respect for Amadeo'
-tags = ['translation', 'miscellaneous', 'amadeo bordiga']
+tags = ['translation', 'miscellaneous', 'amadeo bordiga', 'interviews', 'biographical']
 original_report = "https://www.avantibarbari.com/news.php?sez_id=3&news_id=50"
 original_title = "Bruno Miserendino, Chiedo più rispetto per Amadeo (L'Unità , 24 luglio 1990)"
 +++

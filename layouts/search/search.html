@@ -1,0 +1,116 @@
+{{ define "main" }}
+
+
+<script>
+  const fs = require('fs');
+  const path = require('path');
+
+  const dir = './'; // folder containing your markdown files
+
+  const mdFiles = fs.readdirSync(dir).filter(file => file.endsWith('.md'));
+
+  for (const file of mdFiles) {
+    const filePath = path.join(dir, file);
+    const content = fs.readFileSync(filePath, 'utf-8');
+
+    console.log(`--- ${file} ---`);
+    console.log(content);
+  }
+
+    import Fuse from 'fuse.js'
+
+    const works = [
+    { title: "Old Man's War", tags: 'John Scalzi' },
+    { title: 'The Lock Artist', tags: 'Steve Hamilton' },
+    { title: 'JavaScript Patterns', tags: 'Stoyan Stefanov' }
+    ]
+
+    const fuse = new Fuse(works, {
+    keys: ['title', 'tags'],
+    includeScore: true
+    })
+
+    fuse.search('jon')
+    // [{ item: { title: "Old Man's War", topic: "John Scalzi" }, refIndex: 0, score: 0.25 }]
+
+    fuse.search('patterns')
+    // [{ item: { title: "JavaScript Patterns", ... }, refIndex: 2, score: 0.0 }]
+</script>
+<style>
+  .tag-container {
+    max-width: 900px;
+    margin: 90px auto 40px auto;
+    padding: 0 20px;
+    font-family: system-ui, Arial, sans-serif;
+  }
+
+  .tag-header {
+    margin-bottom: 30px;
+  }
+
+  .tag-title {
+    font-size: 2rem;
+    margin: 0 0 10px 0;
+  }
+
+  .tag-description {
+    font-size: 1.1rem;
+    color: #555;
+    margin: 0 0 20px 0;
+  }
+
+  .tag-item {
+    padding: 18px 22px;
+    margin: 20px 0;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    background: #fafafa;
+    transition: background 0.2s ease, border-color 0.2s ease;
+  }
+
+  .tag-item:hover {
+    background: #f0f0f0;
+    border-color: #ccc;
+  }
+
+  .tag-item-title {
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: #333;
+    text-decoration: none;
+  }
+
+  .tag-item-title:hover {
+    text-decoration: underline;
+  }
+
+  .tag-meta {
+    color: #777;
+    font-size: 0.9rem;
+    margin: 4px 0 10px 0;
+  }
+
+  .tag-summary {
+    font-size: 1.05rem;
+    color: #444;
+  }
+
+  @media (max-width: 600px) {
+    .tag-item {
+      padding: 16px;
+    }
+
+    .tag-item-title {
+      font-size: 1.15rem;
+    }
+  }
+</style>
+
+<main>
+  <header class="tag-header">
+  </header>
+    {{ $page := site.GetPage "contact.md" }}
+    {{ $page.Content }}
+</main>
+
+{{ end }}
