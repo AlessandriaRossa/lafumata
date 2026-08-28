@@ -12,9 +12,7 @@ Those texts are fundamental for framing phenomena such as Artificial Intelligenc
 
 The rate of profit is obtained by dividing the profit (P) by the constant capital (C) added to the variable capital (V): if the share of variable capital decreases, this means that the only source of surplus value reduces, which then gets divided between the parasitic classes under the form of profit/interest and revenue:
 
-
 > *"This is only to say that the same number of workers, or the same quantity of labour-power, made available by variable capital of a given value-magnitude,—as a consequence of the distinct methods of production developing within capitalist production—create an ever-growing mass of the means of labour, machinery, and all sorts of fixed capital, as well as raw and auxiliary materials, which at the same time set into motion more processes and productive consumption; hence, an ever-growing value-magnitude of constant capital."*
-
 
 The development of machine systems (today having become intelligent) eliminates, potentially, enormous numbers of wage labourers, transforming them into unproductive surplus population, useless for capitalism as they are unable even to consume.
 
@@ -27,7 +25,6 @@ Capital necessarily has to increase the quantity of unpaid labour, that is, the 
 Marx proves how the increase in labour productivity is the [historic doom](https://www.quinterna.org/archivio/filitempo/061_1951_nonpotete.htm) of capitalism. Capital works for its own dissolution, laying the foundations for a higher social form. The bourgeoisie will never recognise the validity of the law of the falling rate of profit (while nobody questions *auxology*, the discipline that studies the decreasing increments in biology), since it would be equivalent to admitting that the capitalist mode of production is destined to disappear.
 
 To make up for the overall fall in the rate of profit, capitalism is forced to magnify the scale of commodity production; this leads to the necessity of conquering, by means fair or foul, of new markets (Lenin, *Imperialism*). Industrial production, theoretically infinite, encounters instead the truly finite limits of the Planet (J. Rifkin, *Entropy*). The enormity of the current capitalistic dissipation[^3]  has led the world to consume more resources than can be regenerated annually by as early as June (“Overshoot-day” 2026), thus the solution to the problem is not to find a treatment for the ill, but to eliminate the illness.
-
 
 The *antagonistic reasons* (increase in the degree of labour exploitation, reduction of wage below its value, decrease in the price of the elements of constant capital, relative overpopulation, foreign trade, increase of finance capital) are unable to [counteract](https://www.quinterna.org/pubblicazioni/rivista/40/pensiamoci_bene.htm) the fall in the absolute rate of profit, they can only shift the contradictions further down the line. This system has exhausted its historic function: any *reformist* hypothesis has already been tried, all that remains is to travel the *anti-formist* road, the one described in "[Layout of Our Work Programme](https://quinterna.org/lingue/english/historical_en/layout_work_programme.htm)" (1946).
 

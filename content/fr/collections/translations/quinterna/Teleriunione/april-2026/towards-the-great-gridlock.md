@@ -5,6 +5,8 @@ tags = ['translation', 'quinterna', 'teleriunione', 'february 2026']
 original_report = "https://www.quinternalab.org/teleriunioni/2026/aprile-2026/981-verso-il-grande-ingorgo"
 original_title = "Verso il grande ingorgo"
 original_date = "28 avril 2026"
+featured = true
+featureorder = 3
 +++
 
 Le meeting en ligne de mardi soir a débuté par une analyse des nouvelles récentes concernant la guerre contre l'Iran.

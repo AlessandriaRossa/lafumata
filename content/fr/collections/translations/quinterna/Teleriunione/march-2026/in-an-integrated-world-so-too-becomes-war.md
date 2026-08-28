@@ -6,7 +6,7 @@ tags = ['translation', 'quinterna', 'teleriunione', 'march 2026']
 original_report = "https://www.quinternalab.org/teleriunioni/2026/marzo-2026/977-in-un-mondo-integrato-anche-la-guerra-lo-diventa"
 original_title = "In un mondo integrato anche la guerra lo diventa"
 original_date = "24 mars 2026"
-featured = true
+featured = false
 featureorder = 3
 +++
 

@@ -5,7 +5,7 @@ tags = ['translation', 'quinterna', 'teleriunione', 'february 2026']
 original_report = "https://www.quinternalab.org/teleriunioni/2026/aprile-2026/980-la-turchia-come-fulcro-geopolitico"
 original_title = "La Turchia come fulcro geopolitico"
 original_date = "21 avril 2026"
-featured = true
+featured = false
 featureorder = 1
 +++
 

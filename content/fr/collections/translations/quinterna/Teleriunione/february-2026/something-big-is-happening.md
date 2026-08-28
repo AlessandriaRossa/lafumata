@@ -5,11 +5,9 @@ tags = ['translation', 'quinterna', 'teleriunione', 'february 2026']
 original_report = "https://www.quinternalab.org/teleriunioni/2026/febbraio-2026/972-qualcosa-di-grosso-sta-succedendo"
 original_title = "Qualcosa di grosso sta succedendo"
 original_date = "17 février 2026"
+featured = true
+featureorder = 2
 +++
-
-« Quelque chose de grandiose est en train de se préparer »
-
-Date de publication initiale : 
 
 Le point de départ du meeting en ligne de mardi était un article sur les progrès de l'intelligence artificielle, "[Something big is happening](https://shumer.dev/something-big-is-happening)", écrit par Matt Shumer, informaticien, fondateur et PDG de la start-up OthersideAI.
 
