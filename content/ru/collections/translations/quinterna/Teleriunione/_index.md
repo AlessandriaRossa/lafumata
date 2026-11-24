@@ -2,6 +2,6 @@
 draft = false
 title = 'Teleriunioni'
 summary = 'Для Teleriunione'
-layout = 'quincollects'
+layout = 'collection'
 searchable = 'false'
 +++
