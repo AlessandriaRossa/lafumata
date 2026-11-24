@@ -5,6 +5,8 @@ tags = ['translation', 'quinterna', 'teleriunione', 'may 2026']
 original_report = "https://www.quinternalab.org/teleriunioni/2026/maggio-2026/985-apocalitticismo-borghese"
 original_title = "Apocalittismos borghese"
 original_date = "19 mai 2026"
+featured = true
+featureorder = 3
 +++
 
 Le meeting en ligne a débuté par un point sur quelques nouvelles concernant la situation financière internationale. L'attention s'est tout particulièrement portée sur la performance des obligations d'État américaines de plus en plus délaissées par les investisseurs, et sur la situation économique au Japon.

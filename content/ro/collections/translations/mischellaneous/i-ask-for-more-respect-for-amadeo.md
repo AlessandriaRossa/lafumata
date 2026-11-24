@@ -4,6 +4,8 @@ title = 'Cer Mai Mult Respect Pentru Amadeo'
 tags = ['translation', 'miscellaneous', 'amadeo bordiga']
 original_report = "https://www.avantibarbari.com/news.php?sez_id=3&news_id=50"
 original_title = "Bruno Miserendino, Chiedo più rispetto per Amadeo (L'Unità , 24 luglio 1990)"
+featured = true
+featureorder = 1
 +++
 
 ## O conversație cu nevasta lui Bordiga, Antonietta de Meo: prietenia cu Gramsci, izolarea și relația complicată cu Palmiro Togliatti.

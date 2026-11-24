@@ -1,5 +1,5 @@
 +++
 draft = false
 title = 'September 2026'
-layout = 'teleriunione'
+layout = 'article'
 +++

@@ -5,6 +5,8 @@ tags = ['translation', 'quinterna', 'teleriunione', 'september 2026']
 original_report = "https://www.quinternalab.org/teleriunioni/2026/settembre-2026/996-il-pianeta-si-trova-in-acque-inesplorate"
 original_title = '"Il pianeta si trova in acque inesplorate"'
 original_date = "September 8, 2026"
+featured = true
+featureorder = 3
 +++
 
 During the Tuesday evening online meeting, we revisited some significant texts produced by the academic world, which represent ideological capitulations of the bourgeoisie before Marxism.

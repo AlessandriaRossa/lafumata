@@ -5,6 +5,8 @@ tags = ['translation', 'quinterna', 'teleriunione', 'september 2026']
 original_report = "https://www.quinternalab.org/teleriunioni/2026/settembre-2026/995-il-problema-del-controllo"
 original_title = "Il problema del controllo"
 original_date = "September 1, 2026"
+featured = true
+featureorder = 2
 +++
 
 The Tuesday evening online meeting began with the reporting of some news concerning the technologies used in modern wars.

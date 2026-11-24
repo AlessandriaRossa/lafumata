@@ -2,32 +2,31 @@
 
 <style>
 
-/* Container */
-.teleriunione-container {
+.article-container {
   max-width: 900px;
   margin: 90px auto 40px auto;
   padding: 0 20px;
   font-family: system-ui, Arial, sans-serif;
 }
 
-/* Page header */
-.teleriunione-header {
+.article-header {
   margin-bottom: 30px;
  
 }
 
-.teleriunione-title {
+.article-title {
   font-size: 2.3rem;
   margin: 0 0 10px;
 }
-.teleriunione-items {
+
+.article-items {
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 28px;
 }
-/* Each teleriunione item */
-.teleriunione-item {
+
+.article-item {
     display: block;
     width: 100%;
     padding: 22px 30px;
@@ -37,32 +36,29 @@
     transition: background 0.15s ease;
 }
 
-.teleriunione-item:hover {
+.article-item:hover {
   background: #f0f0f0;
   border-color: #ccc;
 }
 
-/* Title link */
-.teleriunione-item-title {
+.article-item-title {
   font-size: 1.4rem;
  
   text-decoration: none;
   font-weight: 600;
 }
 
-.teleriunione-item-title:hover {
+.article-item-title:hover {
   text-decoration: underline;
 }
 
-/* Meta info */
-.teleriunione-meta {
+.article-meta {
  
   font-size: 0.9rem;
   margin: 4px 0 10px 0;
 }
 
-/* Summary */
-.teleriunione-summary {
+.article-summary {
   font-size: 1.05rem;
   line-height: 1.55;
   margin: 0 0 10px 0;
@@ -71,23 +67,23 @@
 
 </style>
 
-<main class="teleriunione-container">
+<main class="article-container">
 
-  <header class="teleriunione-header">
-    <h1 class="teleriunione-title">{{ .Title }}</h1>
+  <header class="article-header">
+    <h1 class="article-title">{{ .Title }}</h1>
   </header>
 
-  <section class="teleriunione-items">
+  <section class="article-items">
 
     {{ .Content }}
     {{ range .Pages }}
-      <article class="teleriunione-item">
+      <article class="article-item">
         
-        <a class="teleriunione-item-title" href="{{ .RelPermalink }}">
+        <a class="article-item-title" href="{{ .RelPermalink }}">
           {{ .Title }}
         </a>
 
-        <p class="teleriunione-summary">
+        <p class="article-summary">
           {{ if .Summary }}
             {{ .Summary }}
           {{ end }}

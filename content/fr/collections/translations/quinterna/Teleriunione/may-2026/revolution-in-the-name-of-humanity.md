@@ -5,6 +5,8 @@ tags = ['translation', 'quinterna', 'teleriunione', 'may 2026']
 original_report = "https://www.quinternalab.org/teleriunioni/2026/maggio-2026/983-rivoluzione-a-titolo-umano"
 original_title = "Rivoluzione a titolo umano"
 original_date = "12 mai 2026"
+featured = true
+featureorder = 2
 +++
 
 Le meeting en ligne de mardi soir dernier s'est ouvert par des commentaires concernant des [nouvelles](https://www.rainews.it/maratona/2026/05/hantavirus-4-in-quarantena-in-italia-in-volo-con-una-delle-vittime-hondius-sbarco-alle-canarie-il-virus-7dc4509e-29a4-4b58-b4e2-398f1b20efc4.html) sur les cas d'hantavirus (à bord du navire de croisière MV Hondius), une maladie virale transmise par les rongeurs sauvages, tels que les souris et les rats.

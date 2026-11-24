@@ -72,7 +72,7 @@
       
       {{ with .Params.original_report }}
         <p class="article-subtitle" style="margin-top: 8px; color: #555;">
-          Original text: 
+          {{ i18n "source" }}: 
           <a href="{{ . }}" target="_blank">
             <strong>{{ $.Params.original_title }}</strong>
           </a>
@@ -81,7 +81,7 @@
 
       {{ with .Params.original_date }}
         <p class="article-subtitle" style="margin-top: 8px; color: #555;">
-          Original publication date: 
+          {{ i18n "og_publication" }}: 
           <strong>{{ . }}</strong>
         </p>
       {{ end }}

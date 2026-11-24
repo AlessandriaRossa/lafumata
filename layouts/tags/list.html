@@ -67,7 +67,7 @@
 
     <header class="tag-header">
         <h1 class="tag-title">
-            Posts tagged "{{ .Title }}"
+            {{ i18n "tag_title" }} "{{ .Title }}"
         </h1>
 
         {{ with .Content }}
@@ -90,7 +90,7 @@
         {{ end }}
 
         {{ if not .RegularPages }}
-        <p>No posts found for this tag.</p>
+        <p>{{ i18n "tag_not_found" }}.</p>
         {{ end }}
 
     </section>

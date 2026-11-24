@@ -5,6 +5,8 @@ tags = ['translation', 'quinterna', 'teleriunione', 'may 2026']
 original_report = "https://www.quinternalab.org/teleriunioni/2026/maggio-2026/982-il-primo-maggio-e-la-variabile-ucronica"
 original_title = "Il Primo Maggio e la variable ucronica"
 original_date = "5 mai 2026"
+featured = true
+featureorder = 4
 +++
 
 Le meeting en ligne de mardi soir a débuté par un rapport, établi par certains de nos correspondants, concernant l'existence d'un serveur sur Discord où certains discutent des idées de la Gauche Communiste « italienne ».

@@ -4,6 +4,8 @@ title = 'A Programme: the Environment'
 tags = ['translation', 'miscellaneous', 'amadeo bordiga', 'avanguardia', 'environment']
 original_report = "https://www.quinterna.org/archivio/1911_1920/programma_ambiente.htm"
 original_title = "Un programma: l'ambiente"
+featured = true
+featureorder = 1
 +++
 
 We have long fought against the opinion of those who wish to give a cultural direction to the socialist youth movement. We have affirmed that such a direction can correspond to a work of democratic preparation, but not of revolutionary preparation.

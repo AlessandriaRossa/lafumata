@@ -2,7 +2,7 @@
 
 <style>
 
-.quinterna-container {
+.collection-container {
   max-width: 700px;
   margin: 90px auto 40px auto;
   padding: 0 20px;
@@ -10,21 +10,21 @@
   text-align: center;
 }
 
-.quinterna-title {
+.collection-title {
   font-size: 2rem;
   font-weight: 700;
  
   margin-bottom: 40px;
 }
 
-.quinterna-cards {
+.collection-cards {
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 28px;
 }
 
-.quinterna-card {
+.collection-card {
   display: block;
   width: 100%;
   padding: 22px 30px;
@@ -34,11 +34,11 @@
   transition: background 0.15s ease;
 }
 
-.quinterna-card:hover {
+.collection-card:hover {
   background: #fff5f5;
 }
 
-.quinterna-card-title {
+.collection-card-title {
   font-family: 'Caveat', cursive;
   font-size: 2rem;
  
@@ -47,15 +47,15 @@
 
 </style>
 
-<main class="quinterna-container">
+<main class="collection-container">
 
-  <h1 class="quinterna-title">{{ .Title }}</h1>
+  <h1 class="collection-title">{{ .Title }}</h1>
 
-  <div class="quinterna-cards">
+  <div class="collection-cards">
 
 	  {{ range .Sections }}
-	  <a class="quinterna-card" href="{{ .RelPermalink }}">
-		<span class="quinterna-card-title">{{ .Title }}</span>
+	  <a class="collection-card" href="{{ .RelPermalink }}">
+		<span class="collection-card-title">{{ .Title }}</span>
 	  </a>
 	{{ end }}
   </div>
