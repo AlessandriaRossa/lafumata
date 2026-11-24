@@ -5,6 +5,7 @@ tags = ['translation', 'quinterna', 'teleriunione', 'march 2026']
 original_report = "https://www.quinternalab.org/teleriunioni/2026/marzo-2026/974-attacco-all-iran-un-nuovo-capitolo-della-politiguerra-americana"
 original_title = "Attacco all'Iran: un nuovo capitolo della 'politiguerra americana'"
 original_date = "3 марта 2026 г."
+featured = true
 +++
 Онлайн-встреча во вторник началась с анализа форм и последствий атаки, проведённой недавано США и Израилем против Ирана.
 

@@ -5,6 +5,7 @@ tags = ['translation', 'quinterna', 'teleriunione', 'march 2026']
 original_report = "https://www.quinternalab.org/teleriunioni/2026/marzo-2026/977-in-un-mondo-integrato-anche-la-guerra-lo-diventa"
 original_title = "In un mondo integrato anche la guerra lo diventa"
 original_date = "24 марта 2026 г."
+featured = true
 +++
 
 Вечерняя онлайн-встреча во вторник началась с комментария к статье "[Leggi di simmetria e scenari da incubo](https://www.quinterna.org/pubblicazioni/rivista/10/simmetria_scenari.htm)"[^1] (*n*+1, № 10, 2002), связывающей анализ той статьи с недавней израильско-американской атакой на Иран - новой главой американской "warpolitik"[^2] против мира.
