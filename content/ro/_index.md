@@ -3,5 +3,5 @@ draft = false
 title = 'Cine suntem'
 summary = ''
 +++
-Suntem comuniști, în special asociați cu stânga comunistă. Scopul acestui site este de a aduna, într-un format simplu, accesibil și rezonabil, materialul teoretic intrinsec mișcării reale care dorește abolește starea actuală a lucrurilor. Dacă vreodată cineva din grupul nostru se ostenește să scrie opere originale, acest site este conceput și pentru asta. Pentru orice întrebare, scrieți-ne la adresa de e-mail aflată pe pagina de contact.
+Suntem comuniști – mai exact, ne situăm în sfera Stângii Comuniste. Scopul acestui site este de a reuni – într-un format simplu, accesibil și rezonabil – materiale teoretice intrinseci mișcării reale care urmărește abolirea stării actuale a lucrurilor. În cazul în care vreun membru al grupului nostru dedică timp elaborării unor lucrări originale, acest site servește, de asemenea, drept platformă pentru astfel de contribuții. Pentru orice întrebări, vă rugăm să ne scrieți la adresa de e-mail indicată pe pagina de contact.
 ## Recomandat
