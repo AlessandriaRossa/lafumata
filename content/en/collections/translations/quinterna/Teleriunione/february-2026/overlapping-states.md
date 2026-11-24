@@ -1,5 +1,4 @@
 +++
-date = '2026-03-31T19:53:43+02:00'
 draft = false
 title = 'Overlapping States'
 tags = ['translation', 'quinterna', 'teleriunione', 'february 2026']

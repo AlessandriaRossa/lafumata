@@ -1,5 +1,4 @@
 +++
-date = '2026-05-20T22:03:39+02:00'
 draft = false
 title = "The Supply Chain Crisis in the World War"
 tags = ['translation', 'quinterna', 'teleriunione', 'april 2026']

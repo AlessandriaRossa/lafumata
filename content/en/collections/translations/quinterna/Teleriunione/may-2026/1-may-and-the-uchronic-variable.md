@@ -1,5 +1,4 @@
 +++
-date = '2026-06-29T03:19:55+02:00'
 draft = false
 title = '1 May and the Uchronic Variable'
 tags = ['translation', 'quinterna', 'teleriunione', 'may 2026']

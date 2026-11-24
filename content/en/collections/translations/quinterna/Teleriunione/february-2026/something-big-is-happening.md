@@ -1,5 +1,4 @@
 +++
-date = '2026-03-31T19:29:29+02:00'
 draft = false
 title = '"Something Big Is Happening"'
 tags = ['translation', 'quinterna', 'teleriunione', 'february 2026']

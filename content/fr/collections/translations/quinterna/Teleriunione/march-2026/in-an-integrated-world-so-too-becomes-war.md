@@ -1,13 +1,10 @@
 +++
-date = '2026-04-30T17:20:10+02:00'
 draft = false
 title = 'À monde intégré, guerre intégrée'
 tags = ['translation', 'quinterna', 'teleriunione', 'march 2026']
 original_report = "https://www.quinternalab.org/teleriunioni/2026/marzo-2026/977-in-un-mondo-integrato-anche-la-guerra-lo-diventa"
 original_title = "In un mondo integrato anche la guerra lo diventa"
 original_date = "24 mars 2026"
-featured = false
-featureorder = 3
 +++
 
 Le meeting en ligne de mardi soir a commencé par un commentaire sur l'article « [Leggi di simmetria e scenari da incubo](https://www.quinterna.org/pubblicazioni/rivista/10/simmetria_scenari.htm) » [^1] (n+1, n. 10, 2002), reliant l'analyse de l'article à la récente attaque israélo-américaine contre l'Iran, un nouveau chapitre de la "warpolitik"[^2] américaine contre le monde.

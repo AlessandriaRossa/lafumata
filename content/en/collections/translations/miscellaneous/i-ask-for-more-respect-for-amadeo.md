@@ -1,5 +1,4 @@
 +++
-date = '2026-06-29T03:52:13+02:00'
 draft = false
 title = 'I Ask for More Respect for Amadeo'
 tags = ['translation', 'miscellaneous', 'amadeo bordiga', 'interviews', 'biographical']

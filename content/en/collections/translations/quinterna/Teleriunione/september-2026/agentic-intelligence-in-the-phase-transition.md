@@ -5,8 +5,6 @@ tags = ['translation', 'quinterna', 'teleriunione', 'september 2026']
 original_report = "https://www.quinternalab.org/teleriunioni/2026/settembre-2026/999-l-intelligenza-agentica-nella-transizione-di-fase"
 original_title = "L'intelligenza agentica nella transizione di fase"
 original_date = "September 22, 2026"
-featured = true
-featureorder = 2
 +++
 
 The Tuesday evening online meeting began with a discussion on the article “[What if AGI is already here, and it’s made of... children?](https://sidequests.pascio.com/p/what-if-agi-is-already-here-and-its)”, published on X by @IAmPascio.

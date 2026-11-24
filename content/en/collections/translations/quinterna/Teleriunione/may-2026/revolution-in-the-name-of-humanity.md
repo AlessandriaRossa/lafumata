@@ -1,5 +1,4 @@
 +++
-date = '2026-06-29T03:26:58+02:00'
 draft = false
 title = 'Revolution in the Name of Humanity'
 tags = ['translation', 'quinterna', 'teleriunione', 'may 2026']

@@ -2,6 +2,5 @@
 draft = false
 title = 'Teleriunioni'
 summary = 'For Teleriunione'
-layout = 'quincollects'
-searchable = 'false'
+layout = 'collection'
 +++

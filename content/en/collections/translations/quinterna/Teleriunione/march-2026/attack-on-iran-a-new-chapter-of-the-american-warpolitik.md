@@ -1,5 +1,4 @@
 +++
-date = '2026-04-14T20:22:43+02:00'
 draft = false
 title = "Attack on Iran: a New Chapter of the American Warpolitik"
 tags = ['translation', 'quinterna', 'teleriunione', 'march 2026']

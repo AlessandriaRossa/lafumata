@@ -5,8 +5,6 @@ tags = ['translation', 'quinterna', 'teleriunione', 'may 2026']
 original_report = "https://www.quinternalab.org/teleriunioni/2026/maggio-2026/986-sviluppo-dell-uomo-industria"
 original_title = "Sviluppo dell'uomo-industria"
 original_date = "26 mai 2026"
-featured = true
-featureorder = 1
 +++
 
 Le meeting en ligne de mardi soir a débuté par l'analyse de quelques extraits de l'encyclique du Pape Léon XIV, « Magnifica Humanitas » (« Magnifique humanité »).

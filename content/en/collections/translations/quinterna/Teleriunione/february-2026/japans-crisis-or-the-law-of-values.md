@@ -1,5 +1,4 @@
 +++
-date = '2026-03-31T19:43:54+02:00'
 draft = false
 title = "Japan's Crisis, or the Law of Value's?"
 tags = ['translation', 'quinterna', 'teleriunione', 'february 2026']

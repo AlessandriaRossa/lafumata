@@ -1,5 +1,4 @@
 +++
-date = '2026-04-01T17:24:02+02:00'
 draft = false
 title = "The Bourgeoisie’s Business Committees"
 tags = ['translation', 'quinterna', 'teleriunione', 'february 2026']

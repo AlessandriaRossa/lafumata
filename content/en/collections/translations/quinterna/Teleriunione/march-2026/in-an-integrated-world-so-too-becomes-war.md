@@ -1,5 +1,4 @@
 +++
-date = '2026-04-30T17:20:10+02:00'
 draft = false
 title = 'In an Integrated World, so Too Becomes War'
 tags = ['translation', 'quinterna', 'teleriunione', 'march 2026']

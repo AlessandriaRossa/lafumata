@@ -5,8 +5,6 @@ tags = ['translation', 'quinterna', 'teleriunione', 'february 2026']
 original_report = "https://www.quinternalab.org/teleriunioni/2026/aprile-2026/980-la-turchia-come-fulcro-geopolitico"
 original_title = "La Turchia come fulcro geopolitico"
 original_date = "21 avril 2026"
-featured = false
-featureorder = 1
 +++
 
 Le meeting en ligne a débuté par une revisite de l'article « [L'Europa virtuale e i nuovi attrattori d'Eurasia: la Turchia come fulcro dinamico](https://www.quinterna.org/pubblicazioni/rivista/23/turchia1.htm) »[^1], paru dans le 23ème numéro de la revue.

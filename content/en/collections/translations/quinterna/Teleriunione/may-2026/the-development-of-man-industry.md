@@ -1,5 +1,4 @@
 +++
-date = '2026-06-29T03:31:10+02:00'
 draft = false
 title = 'The Development of Man Industry'
 tags = ['translation', 'quinterna', 'teleriunione', 'may 2026']

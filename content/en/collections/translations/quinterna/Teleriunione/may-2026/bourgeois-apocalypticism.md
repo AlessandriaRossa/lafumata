@@ -1,13 +1,10 @@
 +++
-date = '2026-06-29T03:23:33+02:00'
 draft = false
 title = 'Bourgeois Apocalypticism'
 tags = ['translation', 'quinterna', 'teleriunione', 'may 2026']
 original_report = "https://www.quinternalab.org/teleriunioni/2026/maggio-2026/985-apocalitticismo-borghese"
 original_title = "Apocalitticismo borghese"
 original_date = "May 19, 2026"
-featured = false
-featureorder = 1
 +++
 
 The online meeting started with a report on some news concerning the situation of international finance. In particular, we have dwelt on the performance of American government bonds – which are increasingly less requested by investors – and the economic situation in Japan.

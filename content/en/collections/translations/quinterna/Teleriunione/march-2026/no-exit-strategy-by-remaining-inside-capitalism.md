@@ -1,5 +1,4 @@
 +++
-date = '2026-04-30T17:17:05+02:00'
 draft = false
 title = 'No "Exit Strategy" by Remaining Inside Capitalism'
 tags = ['translation', 'quinterna', 'teleriunione', 'march 2026']

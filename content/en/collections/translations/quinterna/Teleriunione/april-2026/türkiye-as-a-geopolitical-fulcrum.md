@@ -1,5 +1,4 @@
 +++
-date = '2026-05-20T22:05:24+02:00'
 draft = false
 title = 'Türkiye as a Geopolitical Fulcrum'
 tags = ['translation', 'quinterna', 'teleriunione', 'april 2026']
